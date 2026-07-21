@@ -1,0 +1,2 @@
+# sxm-config-properties
+properties
